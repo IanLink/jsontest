@@ -1,0 +1,637 @@
+{
+  "tempoTotal": 600,
+  "funções":[
+    {
+      "nome": "Assistente financeiro",
+      "vagas": 3,
+      "personagensHabilitados": [
+        1,
+        2,
+        12,
+        13,
+        21,
+        24,
+        27,
+        47,
+        48
+        ]
+    },
+    {
+      "nome": "Atendente",
+      "vagas": 3,
+      "personagensHabilitados": [
+        1,
+        2,
+        5,
+        12,
+        13,
+        14,
+        18,
+        24,
+        27,
+        29,
+        30,
+        48,
+        49,
+        50
+        ]
+    },
+    {
+      "nome": "Monitor qualidade",
+      "vagas": 3,
+      "personagensHabilitados": [
+        2,
+        13,
+        14,
+        21,
+        33,
+        47,
+        49
+        ]
+    },
+    {
+      "nome": "Secretária",
+      "vagas": 2,
+      "personagensHabilitados": [
+        2,
+        13,
+        21,
+        24,
+        27,
+        46,
+        47,
+        48
+        ]
+    },
+    {
+      "nome": "Analista de crédito",
+      "vagas": 3,
+      "personagensHabilitados": [
+        3,
+        4,
+        6,
+        7,
+        14,
+        19,
+        22,
+        26,
+        34,
+        36,
+        37,
+        38,
+        42
+        ]
+    },
+    {
+      "nome": "Supervisor",
+      "vagas": 2,
+      "personagensHabilitados": [
+        3,
+        4,
+        6,
+        7,
+        9,
+        10,
+        11,
+        19,
+        22,
+        23,
+        26,
+        31,
+        34,
+        35,
+        39,
+        44,
+        46,
+        50,
+        51
+        ]
+    },
+    {
+      "nome": "Gerente de vendas",
+      "vagas": 2,
+      "personagensHabilitados": [
+        3,6, 7, 8, 11, 17, 22, 26, 31, 39, 44, 46
+
+        ]
+    },
+    {
+      "nome": "Repositor",
+      "vagas": 2,
+      "personagensHabilitados": [
+        5, 29, 30, 40
+
+        ]
+    },
+    {
+      "nome": "Contador",
+      "vagas": 2,
+      "personagensHabilitados": [
+        4,19, 34
+
+        ]
+    },
+    {
+      "nome": "Relações públicas",
+      "vagas": 2,
+      "personagensHabilitados": [
+        8,9, 10, 17, 28,50
+
+        ]
+    },
+    {
+      "nome": "Vitrinista",
+      "vagas": 1,
+      "personagensHabilitados": [
+        18,33 
+
+        ]
+    },
+    {
+      "nome": "Técnico de TI",
+      "vagas": 2,
+      "personagensHabilitados": [
+        15, 16, 25, 32, 41, 43, 45, 51
+
+        ]
+    },
+    {
+      "nome": "Técnico em logística",
+      "vagas": 2,
+      "personagensHabilitados": [
+        29, 30, 40
+
+        ]
+    },
+    {
+      "nome": "Repositor",
+      "vagas": 2,
+      "personagensHabilitados": [
+        5, 29, 30, 40
+
+
+        ]
+    }
+  ],
+  "personagens":[
+    {
+      "nome": "Severino Bonfim",
+      "idade": 20,
+      "formação": "cursando 2° semestre de direito",
+      "cursos": "não possui",
+      "experiência": "Não possui",
+      "pontuação": 3,
+      "pcd": false
+    },
+    {
+      "nome": "Amineh Faryd",
+      "idade": 27,
+      "formação": "Equivalente ao ensino médio",
+      "cursos": "Não possui",
+      "experiência": "Não possui",
+      "pontuação": 5,
+      "pcd": false
+    },
+    {
+      "nome": "Antônio Pinheiro",
+      "idade": 34,
+      "formação": "Ciências Contábeis com MBA",
+      "cursos": "coaching e Inglês",
+      "experiência": "Possui 6 anos de experiência.",
+      "pontuação": 1,
+      "pcd": false
+    },
+    {
+      "nome": "Mary Santos",
+      "idade": 28,
+      "formação": "Graduada em Ciências Contábeis",
+      "cursos": "Inglês fluente",
+      "experiência": "com 4 anos de experiência.",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "Carlos Eduardo Seixas",
+      "idade": 25,
+      "formação": "Ensino Médio completo",
+      "cursos": "Marcenaria, garçom e atendimento ao público. ",
+      "experiência": "Não possui",
+      "pontuação": 5,
+      "pcd": false
+    },
+    {
+      "nome": "Viviane Bonfim",
+      "idade": 27,
+      "formação": "MBA executivo em finanças corporativas",
+      "cursos": "Inglês e espanhol fluente",
+      "experiência": "2 anos de experiência",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "João Francisco Souza",
+      "idade": 22,
+      "formação": "MBA em administração",
+      "cursos": "Poliglota",
+      "experiência": "Não possui",
+      "pontuação": 5,
+      "pcd": true
+    },
+    {
+      "nome": "Sérgio Dias",
+      "idade": 26,
+      "formação": "Marketing",
+      "cursos": "Inglês",
+      "experiência": "1 ano de experiência",
+      "pontuação": 1,
+      "pcd": false
+    },
+    {
+      "nome": "Renata Santos Mantovani",
+      "idade": 28,
+      "formação": "MBA relações públicas",
+      "cursos": "Informática e inglês com fluência",
+      "experiência": "Três anos",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "Luciane Bandeira",
+      "idade": 30,
+      "formação": "Publicidade e Propaganda",
+      "cursos": "Inglês",
+      "experiência": "4 anos de experiência",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "Vera Spadaccio",
+      "idade": 45,
+      "formação": "Design de Moda",
+      "cursos": "Informática, compras para o varejo de moda, estilos femininos e imagens pessoal.",
+      "experiência": "13 anos de experiência",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "Jonathan Bonfim dos Santos",
+      "idade": 25,
+      "formação": "graduando em administração",
+      "cursos": "técnicas de vendas e informática",
+      "experiência": "1 ano de experiência em vendas",
+      "pontuação": 4,
+      "pcd": false
+    },
+    {
+      "nome": "Márcia Cristina da Silva",
+      "idade": 21,
+      "formação": "Ensino médio completo",
+      "cursos": "Informática básica",
+      "experiência": "2 anos de experiência em vendas",
+      "pontuação": 1,
+      "pcd": false
+    },
+    {
+      "nome": "Rosy Gonçalves",
+      "idade": 43,
+      "formação": "quarto semestre de Recursos Humanos",
+      "cursos": "Inglês intermediário",
+      "experiência": "4 anos de experiência em atendimento ao cliente",
+      "pontuação": 3,
+      "pcd": true
+    },
+    {
+      "nome": "André Carvalho",
+      "idade": 25,
+      "formação": "Pós-graduado em informática",
+      "cursos": "não possui.",
+      "experiência": "3 anos de experiência",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "Flávio Batista",
+      "idade": 30,
+      "formação": "Graduado em tecnologia da informação",
+      "cursos": "Não tem",
+      "experiência": "5 anos de experiência",
+      "pontuação": 1,
+      "pcd": false
+    },
+    {
+      "nome": "William McIntosh",
+      "idade": 37,
+      "formação": "MBA em marketing",
+      "cursos": "Coaching de oratória e comunicação",
+      "experiência": "10 anos de experiência no exterior",
+      "pontuação": 3,
+      "pcd": false
+    },
+    {
+      "nome": "Ana Lucia Amaral",
+      "idade": 20,
+      "formação": "quarto semestre de Design de Modas",
+      "cursos": "Vitrinismo",
+      "experiência": "não possui.",
+      "pontuação": 5,
+      "pcd": false
+    },
+    {
+      "nome": "Júlio Tanaka",
+      "idade": 23,
+      "formação": "cursando Ciências Contábeis",
+      "cursos": "Informática e Inglês",
+      "experiência": "não possui.",
+      "pontuação": 1,
+      "pcd": false
+    },
+    {
+      "nome": "Eliomar Azevedo",
+      "idade": 25,
+      "formação": "Administração de Empresas",
+      "cursos": "informática, libras",
+      "experiência": "1 ano de experiência",
+      "pontuação": 5,
+      "pcd": true
+    },
+    {
+      "nome": "Érica Souza Bonfim",
+      "idade": 19,
+      "formação": "Ensino médio completo",
+      "cursos": "Inglês",
+      "experiência": "não possui",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "Ricardo José Pinheiro",
+      "idade": 26,
+      "formação": "Administração",
+      "cursos": "Inglês, Espanhol e informática.",
+      "experiência": "3 anos de experiência",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "Fernanda Moreira",
+      "idade": 24,
+      "formação": "design de Modas",
+      "cursos": "Inglês e fotografia",
+      "experiência": "6 meses de experiência",
+      "pontuação": 1,
+      "pcd": false
+    },
+    {
+      "nome": "Ramon Santana de Souza",
+      "idade": 19,
+      "formação": "Ensino Médio",
+      "cursos": "cursando Inglês básico",
+      "experiência": "não possui",
+      "pontuação": 1,
+      "pcd": false
+    },
+    {
+      "nome": "Elisângela Santana",
+      "idade": 19,
+      "formação": "cursando Sistemas de Informação",
+      "cursos": "inglês básico",
+      "experiência": "Não tem",
+      "pontuação": 4,
+      "pcd": true
+    },
+    {
+      "nome": "Tadeu Dourado",
+      "idade": 31,
+      "formação": "Pós-graduado em Administração de empresas",
+      "cursos": "Inglês, Espanhol e gerencia de lojas",
+      "experiência": "6 anos de experiência",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "Marcia Bonfim",
+      "idade": 20,
+      "formação": "Cursando Administração",
+      "cursos": "Espanhol intermediário",
+      "experiência": "não possui",
+      "pontuação": 3,
+      "pcd": false
+    },
+    {
+      "nome": "Aline dos Santos Carvalho",
+      "idade": 38,
+      "formação": "Relações Públicas",
+      "cursos": "Inglês e Representante comercial",
+      "experiência": "4 anos de experiência",
+      "pontuação": 4,
+      "pcd": false
+    },
+    {
+      "nome": "Genivado Andrade Júnior",
+      "idade": 25,
+      "formação": "Ensino Médio completo",
+      "cursos": "Curso técnico em logística",
+      "experiência": "7 anos",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "Cauã Carvalho Bonfim",
+      "idade": 18,
+      "formação": "Ensino Médio completo",
+      "cursos": "Técnico em logística",
+      "experiência": "não possui.",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "Renata Farias",
+      "idade": 38,
+      "formação": "Comunicação Social",
+      "cursos": "Inglês e Técnicas de fidelização",
+      "experiência": "13 anos de experiência",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "Bruno Albuquerque",
+      "idade": 26,
+      "formação": "Tecnologia da informação",
+      "cursos": "Inglês fluente",
+      "experiência": "2 anos de experiência",
+      "pontuação": 3,
+      "pcd": true
+    },
+    {
+      "nome": "Luana Maciel",
+      "idade": 26,
+      "formação": "Ensino Médio completo",
+      "cursos": "vitrinismo e fotografia",
+      "experiência": "2 anos de experiência",
+      "pontuação": 3,
+      "pcd": false
+    },
+    {
+      "nome": "Francis Alencar",
+      "idade": 37,
+      "formação": "MBA em Ciências Contábeis",
+      "cursos": "Inglês fluente",
+      "experiência": "10 anos de experiência",
+      "pontuação": 5,
+      "pcd": false
+    },
+    {
+      "nome": "Andrea Batista",
+      "idade": 28,
+      "formação": "Design de moda",
+      "cursos": "Estilo e imagem pessoal",
+      "experiência": "4 anos de experiência",
+      "pontuação": 3,
+      "pcd": false
+    },
+    {
+      "nome": "Gabriela Oliveira",
+      "idade": 25,
+      "formação": "Economia",
+      "cursos": "Estratégias de negociação",
+      "experiência": "2 anos de experiência",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "José Antônio Ezequiel",
+      "idade": 24,
+      "formação": "Economia",
+      "cursos": "Inglês ",
+      "experiência": "6 meses",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "Fabiana Garcia",
+      "idade": 26,
+      "formação": "Economia",
+      "cursos": "Matemática comercial",
+      "experiência": "1 ano de experiência",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "Thiago Sales",
+      "idade": 29,
+      "formação": "Comunicação Social",
+      "cursos": "Inglês",
+      "experiência": "4 anos",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "Pedro dos Santos",
+      "idade": 22,
+      "formação": "Ensino Médio",
+      "cursos": "Técnico em logística",
+      "experiência": "8 meses de experiência",
+      "pontuação": 3,
+      "pcd": true
+    },
+    {
+      "nome": "Bruna Andrade",
+      "idade": 33,
+      "formação": "Sistemas de informação",
+      "cursos": "Gerência de projeto",
+      "experiência": "9 anos de experiência",
+      "pontuação": 3,
+      "pcd": false
+    },
+    {
+      "nome": "Adelson Pereira",
+      "idade": 23,
+      "formação": "economia",
+      "cursos": "Formação empreendedora",
+      "experiência": "10 meses de experiência",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "Edilane Menezes",
+      "idade": 31,
+      "formação": "Sistemas de informação",
+      "cursos": "Fundamentos de processos de sistemas",
+      "experiência": "6 anos de experiência",
+      "pontuação": 6,
+      "pcd": false
+    },
+    {
+      "nome": "Gercínia Batista",
+      "idade": 48,
+      "formação": "Design de moda",
+      "cursos": "História e repertório de moda e Pesquisa de Tendências",
+      "experiência": "15 anos de experiência",
+      "pontuação": 3,
+      "pcd": false
+    },
+    {
+      "nome": "Thales de Azevedo",
+      "idade": 21,
+      "formação": "cursando Tecnologo em TI",
+      "cursos": "Curso de programação",
+      "experiência": "Não tem",
+      "pontuação": 2,
+      "pcd": false
+    },
+    {
+      "nome": "Juvenal Almeida",
+      "idade": 28,
+      "formação": "MBA em Secretariado Executivo",
+      "cursos": "Inglês, Espanhol e Francês",
+      "experiência": "5 anos de experiência",
+      "pontuação": 3,
+      "pcd": false
+    },
+    {
+      "nome": "Juliano Anchieta",
+      "idade": 34,
+      "formação": "Ensino Médio",
+      "cursos": "Assistente administrativo",
+      "experiência": "10 anos de experiência",
+      "pontuação": 3,
+      "pcd": false
+    },
+    {
+      "nome": "Patrícia Leal",
+      "idade": 21,
+      "formação": "Ensino Médio",
+      "cursos": "Assistente Administrativo",
+      "experiência": "não tem",
+      "pontuação": 1,
+      "pcd": false
+    },
+    {
+      "nome": "Rudá Tibiriçá",
+      "idade": 24,
+      "formação": "Ensino médio",
+      "cursos": "cursando segundo semestre de comunicação social",
+      "experiência": "não tem",
+      "pontuação": 3,
+      "pcd": false
+    },
+    {
+      "nome": "Rafaelli dos Santos",
+      "idade": 26,
+      "formação": "Relações Públicas",
+      "cursos": "Inglês ",
+      "experiência": "2 anos",
+      "pontuação": 4,
+      "pcd": false
+    },
+    {
+      "nome": "Márcio Borges",
+      "idade": 44,
+      "formação": "Tecnologia da informação",
+      "cursos": "Desenvolvimento mobile",
+      "experiência": "15 anos",
+      "pontuação": 2,
+      "pcd": false
+    }
+  ]
+}
