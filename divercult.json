@@ -1,0 +1,821 @@
+{
+	"fase1": {
+		"pares": [
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/0.png",
+				"texto": "Garante direito à educação de qualidade para pessoas com deficiência.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/1.png",
+				"texto": "Garante ao povo indígena acesso ao SUS e aos cuidados de saúde primária,secundária e terciária, em espaço local e de corporações especializadas.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/2.png",
+				"texto": "Assegura a vinculação do nome social ao registro civil de cidadãos transexuais ou travestis, que podem ser reconhecidos por desta maneira.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/3.png",
+				"texto": "Direito ao voto direto e sigiloso a escolha de cargos governamentais, independente da condição alfabética, renda, etnia, gênero e classe social.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/4.png",
+				"texto": "Em casos de internação de pessoas portadoras de distúrbios mentais, o tratamento deve prestar amparos de cunho social, psicológico, lazer e outros.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/5.png",
+				"texto": "Reconhece os refugiados: sujeitos perseguidos por razões de raça, religião, nacionalidade, grupo social ou opinião política, obrigados a procurar abrigo em outro país.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/6.png",
+				"texto": "Assegura o desenvolvimento físico, mental, moral, espiritual e social em condições de liberdade e dignidade à criança e ao adolescente.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/7.png",
+				"texto":"Define os crimes resultantes de preconceito de raça ou de cor.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/8.png",
+				"texto":"O ser humano tem direito à alimentação adequada, cabendo ao poder público respeitar, proteger, promover, prover, informar, monitorar, fiscalizar e avaliar seu cumprimento.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/9.png",
+				"texto": "Regulamenta direitos trabalhistas da população, proibindo as diferenças de salário, exercício de funções por motivos como faixa etária, gênero e etnia ou estado civil.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/10.png",
+				"texto": "Esta Lei recebe o nome de uma vítima de violência doméstica que lutou pela punição de seu agressor.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/11.png",
+				"texto": "Assegura direito de liberdade de crença religiosa e proteção de todos os locais de cultos e rituais.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/12.png",
+				"texto": "Nenhum idoso pode ser objeto de qualquer tipo de negligência, maus tratos, discriminação, omissão, opressão, e atentado aos seus direitos.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/13.png",
+				"texto": "Determina que o poder público utilize programas e ações estratégicas para garantir a criação e manutenção de moradia autônoma para pessoas com deficiência.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/14.png",
+				"texto": "Aos 17 anos tornou-se a pessoa mais jovem a ganhar o Prêmio Nobel da Paz. Luta pelo direito de todos à educação, principalmente mulheres e crianças.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/15.png",
+				"texto": "Deficiente visual nascida em 1919, foi uma pedagoga paulista que lutou pela acessibilidade, inclusão social, legislação e educação para portadores dessa deficiência.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/16.png",
+				"texto": "Nascida em 1810, é apontada como primeira feminista brasileira, atuou também em pautas indígenas, dos africanos em condição de escravos no Brasil.",
+			},
+  			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/17.png",
+				"texto": "Vereadora no Rio de Janeiro, assassinada em 2018, presidiu a Comissão da Mulher Da Câmara além de ser defensora dos direitos humanos e das causas LGBTQI+.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/18.png",
+				"texto": "Um dos principais líderes negros na luta contra a discriminação e a segregação racial nos Estados Unidos, proferiu o famoso discurso \"I Have a Dream\".", 
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/19.png",
+				"texto": "Líder do movimento contra o Apartheid na África do Sul, condenado à prisão perpetua em 1964 e solto 1990 após grande pressão internacional.", 
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/20.png",
+				"texto": "Líder do movimento de Independência da Índia. Além do pacifismo, acreditava nas greves de fome como arma política.", 
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/21.png",
+				"texto": "Fundador do movimento Bachpan Bachao Andolan (BBA), que tem como objetivo eliminar o tráfico de crianças e o trabalho infantil na Índia.", 
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/22.png",
+				"texto": "Médica e sanitarista, fundou a Pastoral da Criança em 1983 com o propósito de reduzir mortalidade infantil. Disseminou o uso de soro caseiro no Brasil.", 
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/23.png",
+				"texto": "Jornalista defensora do direito à moradia digna e direitos das mulheres, também lutou contra o racismo e ajudou a fundar a Federação de Mulheres do Brasil.", 
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/24.png",
+				"texto": "Lutou contra a violência doméstica e fundou um instituto sem fins lucrativos para ajudar mulheres que passaram por situações semelhantes.", 
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/25.png",
+				"texto": "Mulher trans premiada pela ONU por lutar contra a LTGBQIfobia e os direitos da comunidade trans de El Salvador.", 
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/26.png",
+				"texto": "Pesquisadora com domínio de políticas públicas voltadas para os direitos das crianças e adolescentes.",
+			},
+			{
+				"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase1/27.png",
+				"texto": "Ativista brasileira trans, que luta por melhorias em saúde e educação para cidadãos transssexuais. Protagonizou longa-metragem exibido no Festival de Cannes em 2019."
+			}
+		]		
+	},
+	
+	"fase2": {
+		"tempoTotal": 600,
+		"funções":[
+			{
+			  "nome": "Assistente financeiro",
+			  "vagas": 3,
+			  "personagensHabilitados": [
+				1,
+				2,
+				12,
+				13,
+				21,
+				24,
+				27,
+				47,
+				48
+				]
+			},
+			{
+			  "nome": "Atendente",
+			  "vagas": 3,
+			  "personagensHabilitados": [
+				1,
+				2,
+				5,
+				12,
+				13,
+				14,
+				18,
+				24,
+				27,
+				29,
+				30,
+				48,
+				49,
+				50
+				]
+			},
+			{
+			  "nome": "Monitor qualidade",
+			  "vagas": 3,
+			  "personagensHabilitados": [
+				2,
+				13,
+				14,
+				21,
+				33,
+				47,
+				49
+				]
+			},
+			{
+			  "nome": "Secretária",
+			  "vagas": 2,
+			  "personagensHabilitados": [
+				2,
+				13,
+				21,
+				24,
+				27,
+				46,
+				47,
+				48
+				]
+			},
+			{
+			  "nome": "Analista de crédito",
+			  "vagas": 3,
+			  "personagensHabilitados": [
+				3,
+				4,
+				6,
+				7,
+				14,
+				19,
+				22,
+				26,
+				34,
+				36,
+				37,
+				38,
+				42
+				]
+			},
+			{
+			  "nome": "Supervisor",
+			  "vagas": 2,
+			  "personagensHabilitados": [
+				3,
+				4,
+				6,
+				7,
+				9,
+				10,
+				11,
+				19,
+				22,
+				23,
+				26,
+				31,
+				34,
+				35,
+				39,
+				44,
+				46,
+				50,
+				51
+				]
+			},
+			{
+			  "nome": "Gerente de vendas",
+			  "vagas": 2,
+			  "personagensHabilitados": [
+				3,6, 7, 8, 11, 17, 22, 26, 31, 39, 44, 46
+
+				]
+			},
+			{
+			  "nome": "Repositor",
+			  "vagas": 2,
+			  "personagensHabilitados": [
+				5, 29, 30, 40
+
+				]
+			},
+			{
+			  "nome": "Contador",
+			  "vagas": 2,
+			  "personagensHabilitados": [
+				4,19, 34
+
+				]
+			},
+			{
+			  "nome": "Relações públicas",
+			  "vagas": 2,
+			  "personagensHabilitados": [
+				8,9, 10, 17, 28,50
+
+				]
+			},
+			{
+			  "nome": "Vitrinista",
+			  "vagas": 1,
+			  "personagensHabilitados": [
+				18,33 
+
+				]
+			},
+			{
+			  "nome": "Técnico de TI",
+			  "vagas": 2,
+			  "personagensHabilitados": [
+				15, 16, 25, 32, 41, 43, 45, 51
+
+				]
+			},
+			{
+			  "nome": "Técnico em logística",
+			  "vagas": 2,
+			  "personagensHabilitados": [
+				29, 30, 40
+
+				]
+			},
+			{
+			  "nome": "Repositor",
+			  "vagas": 2,
+			  "personagensHabilitados": [
+				5, 29, 30, 40
+
+
+				]
+			}
+		],		
+		"personagens":[
+			{
+			  "nome": "Severino Bonfim",
+			  "idade": 20,
+			  "formação": "cursando 2° semestre de direito",
+			  "cursos": "não possui",
+			  "experiência": "Não possui",
+			  "pontuação": 3,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/0.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Amineh Faryd",
+			  "idade": 27,
+			  "formação": "Equivalente ao ensino médio",
+			  "cursos": "Não possui",
+			  "experiência": "Não possui",
+			  "pontuação": 5,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/1.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Antônio Pinheiro",
+			  "idade": 34,
+			  "formação": "Ciências Contábeis com MBA",
+			  "cursos": "coaching e Inglês",
+			  "experiência": "Possui 6 anos de experiência.",
+			  "pontuação": 1,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/2.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Mary Santos",
+			  "idade": 28,
+			  "formação": "Graduada em Ciências Contábeis",
+			  "cursos": "Inglês fluente",
+			  "experiência": "com 4 anos de experiência.",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/3.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Carlos Eduardo Seixas",
+			  "idade": 25,
+			  "formação": "Ensino Médio completo",
+			  "cursos": "Marcenaria, garçom e atendimento ao público. ",
+			  "experiência": "Não possui",
+			  "pontuação": 5,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/4.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Viviane Bonfim",
+			  "idade": 27,
+			  "formação": "MBA executivo em finanças corporativas",
+			  "cursos": "Inglês e espanhol fluente",
+			  "experiência": "2 anos de experiência",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/5.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "João Francisco Souza",
+			  "idade": 22,
+			  "formação": "MBA em administração",
+			  "cursos": "Poliglota",
+			  "experiência": "Não possui",
+			  "pontuação": 5,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/6.png",
+			  "pcd": true
+			},
+			{
+			  "nome": "Sérgio Dias",
+			  "idade": 26,
+			  "formação": "Marketing",
+			  "cursos": "Inglês",
+			  "experiência": "1 ano de experiência",
+			  "pontuação": 1,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/7.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Renata Santos Mantovani",
+			  "idade": 28,
+			  "formação": "MBA relações públicas",
+			  "cursos": "Informática e inglês com fluência",
+			  "experiência": "Três anos",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/8.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Luciane Bandeira",
+			  "idade": 30,
+			  "formação": "Publicidade e Propaganda",
+			  "cursos": "Inglês",
+			  "experiência": "4 anos de experiência",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/9.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Vera Spadaccio",
+			  "idade": 45,
+			  "formação": "Design de Moda",
+			  "cursos": "Informática, compras para o varejo de moda, estilos femininos e imagens pessoal.",
+			  "experiência": "13 anos de experiência",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/10.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Jonathan Bonfim dos Santos",
+			  "idade": 25,
+			  "formação": "graduando em administração",
+			  "cursos": "técnicas de vendas e informática",
+			  "experiência": "1 ano de experiência em vendas",
+			  "pontuação": 4,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/11.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Márcia Cristina da Silva",
+			  "idade": 21,
+			  "formação": "Ensino médio completo",
+			  "cursos": "Informática básica",
+			  "experiência": "2 anos de experiência em vendas",
+			  "pontuação": 1,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/12.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Rosy Gonçalves",
+			  "idade": 43,
+			  "formação": "quarto semestre de Recursos Humanos",
+			  "cursos": "Inglês intermediário",
+			  "experiência": "4 anos de experiência em atendimento ao cliente",
+			  "pontuação": 3,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/13.png",
+			  "pcd": true
+			},
+			{
+			  "nome": "André Carvalho",
+			  "idade": 25,
+			  "formação": "Pós-graduado em informática",
+			  "cursos": "não possui.",
+			  "experiência": "3 anos de experiência",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/14.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Flávio Batista",
+			  "idade": 30,
+			  "formação": "Graduado em tecnologia da informação",
+			  "cursos": "Não tem",
+			  "experiência": "5 anos de experiência",
+			  "pontuação": 1,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/15.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "William McIntosh",
+			  "idade": 37,
+			  "formação": "MBA em marketing",
+			  "cursos": "Coaching de oratória e comunicação",
+			  "experiência": "10 anos de experiência no exterior",
+			  "pontuação": 3,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/16.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Ana Lucia Amaral",
+			  "idade": 20,
+			  "formação": "quarto semestre de Design de Modas",
+			  "cursos": "Vitrinismo",
+			  "experiência": "não possui.",
+			  "pontuação": 5,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/17.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Júlio Tanaka",
+			  "idade": 23,
+			  "formação": "cursando Ciências Contábeis",
+			  "cursos": "Informática e Inglês",
+			  "experiência": "não possui.",
+			  "pontuação": 1,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/18.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Eliomar Azevedo",
+			  "idade": 25,
+			  "formação": "Administração de Empresas",
+			  "cursos": "informática, libras",
+			  "experiência": "1 ano de experiência",
+			  "pontuação": 5,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/19.png",
+			  "pcd": true
+			},
+			{
+			  "nome": "Érica Souza Bonfim",
+			  "idade": 19,
+			  "formação": "Ensino médio completo",
+			  "cursos": "Inglês",
+			  "experiência": "não possui",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/20.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Ricardo José Pinheiro",
+			  "idade": 26,
+			  "formação": "Administração",
+			  "cursos": "Inglês, Espanhol e informática.",
+			  "experiência": "3 anos de experiência",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/21.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Fernanda Moreira",
+			  "idade": 24,
+			  "formação": "design de Modas",
+			  "cursos": "Inglês e fotografia",
+			  "experiência": "6 meses de experiência",
+			  "pontuação": 1,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/22.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Ramon Santana de Souza",
+			  "idade": 19,
+			  "formação": "Ensino Médio",
+			  "cursos": "cursando Inglês básico",
+			  "experiência": "não possui",
+			  "pontuação": 1,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/23.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Elisângela Santana",
+			  "idade": 19,
+			  "formação": "cursando Sistemas de Informação",
+			  "cursos": "inglês básico",
+			  "experiência": "Não tem",
+			  "pontuação": 4,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/24.png",
+			  "pcd": true
+			},
+			{
+			  "nome": "Tadeu Dourado",
+			  "idade": 31,
+			  "formação": "Pós-graduado em Administração de empresas",
+			  "cursos": "Inglês, Espanhol e gerencia de lojas",
+			  "experiência": "6 anos de experiência",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/25.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Marcia Bonfim",
+			  "idade": 20,
+			  "formação": "Cursando Administração",
+			  "cursos": "Espanhol intermediário",
+			  "experiência": "não possui",
+			  "pontuação": 3,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/26.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Aline dos Santos Carvalho",
+			  "idade": 38,
+			  "formação": "Relações Públicas",
+			  "cursos": "Inglês e Representante comercial",
+			  "experiência": "4 anos de experiência",
+			  "pontuação": 4,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/27.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Genivado Andrade Júnior",
+			  "idade": 25,
+			  "formação": "Ensino Médio completo",
+			  "cursos": "Curso técnico em logística",
+			  "experiência": "7 anos",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/28.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Cauã Carvalho Bonfim",
+			  "idade": 18,
+			  "formação": "Ensino Médio completo",
+			  "cursos": "Técnico em logística",
+			  "experiência": "não possui.",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/29.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Renata Farias",
+			  "idade": 38,
+			  "formação": "Comunicação Social",
+			  "cursos": "Inglês e Técnicas de fidelização",
+			  "experiência": "13 anos de experiência",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/30.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Bruno Albuquerque",
+			  "idade": 26,
+			  "formação": "Tecnologia da informação",
+			  "cursos": "Inglês fluente",
+			  "experiência": "2 anos de experiência",
+			  "pontuação": 3,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/31.png",
+			  "pcd": true
+			},
+			{
+			  "nome": "Luana Maciel",
+			  "idade": 26,
+			  "formação": "Ensino Médio completo",
+			  "cursos": "vitrinismo e fotografia",
+			  "experiência": "2 anos de experiência",
+			  "pontuação": 3,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/32.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Francis Alencar",
+			  "idade": 37,
+			  "formação": "MBA em Ciências Contábeis",
+			  "cursos": "Inglês fluente",
+			  "experiência": "10 anos de experiência",
+			  "pontuação": 5,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/33.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Andrea Batista",
+			  "idade": 28,
+			  "formação": "Design de moda",
+			  "cursos": "Estilo e imagem pessoal",
+			  "experiência": "4 anos de experiência",
+			  "pontuação": 3,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/34.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Gabriela Oliveira",
+			  "idade": 25,
+			  "formação": "Economia",
+			  "cursos": "Estratégias de negociação",
+			  "experiência": "2 anos de experiência",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/35.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "José Antônio Ezequiel",
+			  "idade": 24,
+			  "formação": "Economia",
+			  "cursos": "Inglês ",
+			  "experiência": "6 meses",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/36.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Fabiana Garcia",
+			  "idade": 26,
+			  "formação": "Economia",
+			  "cursos": "Matemática comercial",
+			  "experiência": "1 ano de experiência",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/37.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Thiago Sales",
+			  "idade": 29,
+			  "formação": "Comunicação Social",
+			  "cursos": "Inglês",
+			  "experiência": "4 anos",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/38.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Pedro dos Santos",
+			  "idade": 22,
+			  "formação": "Ensino Médio",
+			  "cursos": "Técnico em logística",
+			  "experiência": "8 meses de experiência",
+			  "pontuação": 3,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/39.png",
+			  "pcd": true
+			},
+			{
+			  "nome": "Bruna Andrade",
+			  "idade": 33,
+			  "formação": "Sistemas de informação",
+			  "cursos": "Gerência de projeto",
+			  "experiência": "9 anos de experiência",
+			  "pontuação": 3,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/40.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Adelson Pereira",
+			  "idade": 23,
+			  "formação": "economia",
+			  "cursos": "Formação empreendedora",
+			  "experiência": "10 meses de experiência",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/41.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Edilane Menezes",
+			  "idade": 31,
+			  "formação": "Sistemas de informação",
+			  "cursos": "Fundamentos de processos de sistemas",
+			  "experiência": "6 anos de experiência",
+			  "pontuação": 6,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/42.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Gercínia Batista",
+			  "idade": 48,
+			  "formação": "Design de moda",
+			  "cursos": "História e repertório de moda e Pesquisa de Tendências",
+			  "experiência": "15 anos de experiência",
+			  "pontuação": 3,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/43.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Thales de Azevedo",
+			  "idade": 21,
+			  "formação": "cursando Tecnologo em TI",
+			  "cursos": "Curso de programação",
+			  "experiência": "Não tem",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/44.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Juvenal Almeida",
+			  "idade": 28,
+			  "formação": "MBA em Secretariado Executivo",
+			  "cursos": "Inglês, Espanhol e Francês",
+			  "experiência": "5 anos de experiência",
+			  "pontuação": 3,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/45.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Juliano Anchieta",
+			  "idade": 34,
+			  "formação": "Ensino Médio",
+			  "cursos": "Assistente administrativo",
+			  "experiência": "10 anos de experiência",
+			  "pontuação": 3,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/46.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Patrícia Leal",
+			  "idade": 21,
+			  "formação": "Ensino Médio",
+			  "cursos": "Assistente Administrativo",
+			  "experiência": "não tem",
+			  "pontuação": 1,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/47.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Rudá Tibiriçá",
+			  "idade": 24,
+			  "formação": "Ensino médio",
+			  "cursos": "cursando segundo semestre de comunicação social",
+			  "experiência": "não tem",
+			  "pontuação": 3,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/48.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Rafaelli dos Santos",
+			  "idade": 26,
+			  "formação": "Relações Públicas",
+			  "cursos": "Inglês ",
+			  "experiência": "2 anos",
+			  "pontuação": 4,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/49.png",
+			  "pcd": false
+			},
+			{
+			  "nome": "Márcio Borges",
+			  "idade": 44,
+			  "formação": "Tecnologia da informação",
+			  "cursos": "Desenvolvimento mobile",
+			  "experiência": "15 anos",
+			  "pontuação": 2,
+			  "imagem": "https://github.com/IanLink/jsontest/raw/master/Fase2/50.png",
+			  "pcd": false
+			}
+		]
+	},
+	
+	"fase3": {
+	{
+		"imagem": "https://github.com/IanLink/jsontest/raw/master/Fase3/0.png",
+		"textos":[
+			"Sorte grande",
+			"Uma pena",
+			"Uau, teletransporte",
+			"Vai esperar agora!",
+			"Mas que sorte!",
+			"Azar...",
+			"Sorte!"
+		]
+	}
+}
