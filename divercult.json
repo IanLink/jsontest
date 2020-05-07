@@ -123,48 +123,21 @@
 			  "nome": "Assistente financeiro",
 			  "vagas": 3,
 			  "personagensHabilitados": [
-				1,
-				2,
-				12,
-				13,
-				21,
-				24,
-				27,
-				47,
-				48
+				1, 2,12,13,21, 24, 27, 47, 48
 				]
 			},
 			{
 			  "nome": "Atendente",
 			  "vagas": 3,
 			  "personagensHabilitados": [
-				1,
-				2,
-				5,
-				12,
-				13,
-				14,
-				18,
-				24,
-				27,
-				29,
-				30,
-				48,
-				49,
-				50
+				1, 2,5, 12, 13, 14, 18, 21, 24, 27, 29, 30, 48, 49, 50
 				]
 			},
 			{
 			  "nome": "Monitor qualidade",
 			  "vagas": 3,
 			  "personagensHabilitados": [
-				2,
-				13,
-				14,
-				21,
-				33,
-				47,
-				49
+				1, 2, 5, 13, 12, 14, 21,24, 27, 33, 47, 49
 				]
 			},
 			{
@@ -185,51 +158,21 @@
 			  "nome": "Analista de crédito",
 			  "vagas": 3,
 			  "personagensHabilitados": [
-				3,
-				4,
-				6,
-				7,
-				14,
-				19,
-				22,
-				26,
-				34,
-				36,
-				37,
-				38,
-				42
+				3, 4, 6, 7, 14, 19, 20, 22, 26, 34, 36, 37, 38, 42
 				]
 			},
 			{
 			  "nome": "Supervisor",
 			  "vagas": 2,
 			  "personagensHabilitados": [
-				3,
-				4,
-				6,
-				7,
-				9,
-				10,
-				11,
-				19,
-				22,
-				23,
-				26,
-				31,
-				34,
-				35,
-				39,
-				44,
-				46,
-				50,
-				51
+				3,4,6, 7,9, 10, 11, 19, 20, 22, 23, 26,31, 34, 35, 39,44,46, 50, 51
 				]
 			},
 			{
 			  "nome": "Gerente de vendas",
 			  "vagas": 2,
 			  "personagensHabilitados": [
-				3,6, 7, 8, 11, 17, 22, 26, 31, 39, 44, 46
+				3,6, 7, 8, 11, 17, 20, 22, 26, 31, 39, 44, 46
 
 				]
 			},
@@ -237,7 +180,7 @@
 			  "nome": "Repositor",
 			  "vagas": 2,
 			  "personagensHabilitados": [
-				5, 29, 30, 40
+				5, 29, 30, 40, 24, 47, 49
 
 				]
 			},
@@ -245,7 +188,7 @@
 			  "nome": "Contador",
 			  "vagas": 2,
 			  "personagensHabilitados": [
-				4,19, 34
+				4,19, 34, 2, 3, 6, 12, 14
 
 				]
 			},
@@ -253,7 +196,7 @@
 			  "nome": "Relações públicas",
 			  "vagas": 2,
 			  "personagensHabilitados": [
-				8,9, 10, 17, 28,50
+				8,9, 10, 11, 17,21,22,26, 28, 31,39,44, 49, 50
 
 				]
 			},
@@ -261,7 +204,7 @@
 			  "nome": "Vitrinista",
 			  "vagas": 1,
 			  "personagensHabilitados": [
-				18,33 
+				18,33,5, 2, 10, 13, 14, 21, 33, 35
 
 				]
 			},
@@ -277,16 +220,7 @@
 			  "nome": "Técnico em logística",
 			  "vagas": 2,
 			  "personagensHabilitados": [
-				29, 30, 40
-
-				]
-			},
-			{
-			  "nome": "Repositor",
-			  "vagas": 2,
-			  "personagensHabilitados": [
-				5, 29, 30, 40
-
+				29, 30, 40, 7, 22, 26, 27, 29, 30, 40, 48
 
 				]
 			}
